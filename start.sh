@@ -1,2 +1,2 @@
 pip install fastapi uvicorn yfinance
-uvicorn main:app
+timeout 30 uvicorn main:app
