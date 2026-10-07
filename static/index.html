@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Stock Analyzer</title>
+
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Stock Analyzer</h1>
+        <p>Analyze stocks using Yahoo Finance data</p>
+    </header>
+
+    <main>
+
+        <section class="search">
+            <input
+                id="tickerInput"
+                type="text"
+                placeholder="Enter ticker (AAPL)"
+                value="AAPL"
+            >
+
+            <button onclick="analyzeStock()">
+                Analyze
+            </button>
+        </section>
+
+        <div id="loading" class="hidden">
+            Loading...
+        </div>
+
+        <div id="error" class="error hidden"></div>
+
+        <section id="dashboard" class="hidden">
+
+            <div class="company-header">
+                <div>
+                    <h2 id="companyName"></h2>
+                    <p id="companyDetails"></p>
+                </div>
+            </div>
+
+            <div class="grid">
+
+                <div class="card">
+                    <h3>Current Price</h3>
+                    <div id="currentPrice" class="big-number"></div>
+                </div>
+
+                <div class="card">
+                    <h3>Market Cap</h3>
+                    <div id="marketCap" class="big-number"></div>
+                </div>
+
+                <div class="card">
+                    <h3>P/E Ratio</h3>
+                    <div id="pe" class="big-number"></div>
+                </div>
+
+                <div class="card">
+                    <h3>Beta</h3>
+                    <div id="beta" class="big-number"></div>
+                </div>
+
+            </div>
+
+            <div class="card">
+
+                <h3>Price</h3>
+
+                <div class="price-grid">
+                    <div>
+                        <span>Open</span>
+                        <strong id="open"></strong>
+                    </div>
+
+                    <div>
+                        <span>Previous Close</span>
+                        <strong id="previousClose"></strong>
+                    </div>
+
+                    <div>
+                        <span>Day High</span>
+                        <strong id="dayHigh"></strong>
+                    </div>
+
+                    <div>
+                        <span>Day Low</span>
+                        <strong id="dayLow"></strong>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="card">
+
+                <h3>52 Week Range</h3>
+
+                <div class="price-grid">
+
+                    <div>
+                        <span>52 Week High</span>
+                        <strong id="weekHigh"></strong>
+                    </div>
+
+                    <div>
+                        <span>52 Week Low</span>
+                        <strong id="weekLow"></strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="card">
+
+                <h3>Valuation</h3>
+
+                <div class="price-grid">
+
+                    <div>
+                        <span>P/E</span>
+                        <strong id="valuationPE"></strong>
+                    </div>
+
+                    <div>
+                        <span>Forward P/E</span>
+                        <strong id="forwardPE"></strong>
+                    </div>
+
+                    <div>
+                        <span>Price/Book</span>
+                        <strong id="priceBook"></strong>
+                    </div>
+
+                    <div>
+                        <span>PEG</span>
+                        <strong id="peg"></strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="card">
+
+                <h3>Financials</h3>
+
+                <div class="price-grid">
+
+                    <div>
+                        <span>Revenue</span>
+                        <strong id="revenue"></strong>
+                    </div>
+
+                    <div>
+                        <span>Gross Profit</span>
+                        <strong id="grossProfit"></strong>
+                    </div>
+
+                    <div>
+                        <span>Net Income</span>
+                        <strong id="netIncome"></strong>
+                    </div>
+
+                    <div>
+                        <span>Profit Margin</span>
+                        <strong id="profitMargin"></strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="card">
+
+                <h3>Analysts</h3>
+
+                <div class="price-grid">
+
+                    <div>
+                        <span>Target High</span>
+                        <strong id="targetHigh"></strong>
+                    </div>
+
+                    <div>
+                        <span>Target Low</span>
+                        <strong id="targetLow"></strong>
+                    </div>
+
+                    <div>
+                        <span>Target Mean</span>
+                        <strong id="targetMean"></strong>
+                    </div>
+
+                    <div>
+                        <span>Recommendation</span>
+                        <strong id="recommendation"></strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <script src="/app.js"></script>
+
+</body>
+</html>
+
