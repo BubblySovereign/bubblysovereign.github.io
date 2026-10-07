@@ -1,1 +1,2 @@
-uvicorn main:app --reload
+pip install fastapi uvicorn yfinance
+uvicorn main:app
