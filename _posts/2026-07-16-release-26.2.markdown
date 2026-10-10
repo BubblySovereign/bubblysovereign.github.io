@@ -1,0 +1,38 @@
+---
+layout: post
+title: Minecraft 26.2 - Chaos Cubed
+---
+
+Chaos Cubed has landed in Minecraft Java Edition! Explore a striking cave biome filled with bubbling sulfur pools, build with sulfur and cinnabar, and discover the sulfur cube's curious appetite for blocks! From bouncing and sliding to explosive surprises, this unpredictable mob unlocks exciting new ways to build, compete, and survive. Play Chaos Cubed today in Minecraft!<br>
+
+Happy mining!<br>
+
+**Changelog:**<br>
+\* Added the Sulfur Cube mob<br>
+\* Added the Sulfur Caves biome<br>
+\* Added the Cinnabar and Sulfur block sets<br>
+\* Added the Sulfur Spike and Potent Sulfur block<br>
+\* Added a new Music Disc with the track "Bounce" by fingerspit<br>
+\* Added 5 new music tracks by fingerspit<br>
+\* Added the Friends List<br>
+\* Added new settings for Friends List in Online Options<br>
+\* Added experimental support for rendering the game through Vulkan<br>
+\* Added new option "Graphics API" in Video Settings<br>
+\* Added Swiss French, Chuvash, Gallo, Uzbek, and Võro language support to the game<br>
+\* Tweaked various mobs hitbox, eye height, and rider positions<br>
+\* Hoglins are now considered hostile and do not spawn on Peaceful difficulty<br>
+\* Fixed baby Hoglin's and Zoglin's left ear texture so it's properly mirrored<br>
+\* Updated the Main Menu background panorama<br>
+\* When the game is overwhelmed with particles, instead of removing existing particles in flight, it will now randomly select for particles to render or not render to stay under the particle limit<br>
+\* As the host of a world, changing the game mode with F3 + F4 or with commands changes the default game mode of the world<br>
+\* Upgrading certain worlds from before 26.1 can now be faster<br>
+\* Respawning (as a spectator) in a hardcore world no longer turns off the spectators_generate_chunks game rule<br>
+\* Removed Touchscreen Mode<br>
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/3872a7f07a1a595e651aef8b058dfc2bb3772f46/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>

@@ -1,0 +1,48 @@
+---
+layout: post
+title: Minecraft 1.21.6 - The Chase the Skies
+---
+
+Experience the joy of soaring above the Overworld with our Chase the Skies drop! This drop not only brings an exciting flying mount to Minecraft but opens up the skies for exploring, building – and more. Raise your ghastling with care and it'll let you soar with friends above the clouds once fully grown.<br>
+
+With 1.21.6 we are also taking steps towards adding Vibrant Visuals to Java. In this release, there are new fog improvements and clouds will extend all the way to the horizon.<br>
+
+Go out and explore the Overworld, build high into the sky, leash a caravan of camels together, uncover new music, and find wandering friends with the Player Locator bar.<br>
+
+**Changelog:**<br>
+\* Added Happy Ghast mob<br>
+\* Added Dried Ghast block<br>
+\* Added Harness items<br>
+\* Added the Locator Bar, a new HUD element that shows the direction of other Players in multiplayer<br>
+\* Added a new Music Disc with the track "Tears" by Amos Roddy<br>
+\* Added 5 new music tracks by Amos Roddy<br>
+\* Added new advancements<br>
+\* Added Old Spelling Indonesian (Indonesian pre-reform) and Cantabrian language support<br>
+\* Changed leash mechanics and updated recipe for Lead<br>
+\* Saddles are now craftable and shearable<br>
+\* Updated Ghast texture<br>
+\* Improvements to fog<br>
+\* Updates to music and sound<br>
+\* Improvements to the Realms configuration screen and introduced a region preference setting<br>
+\* Piglins can now give Dried Ghast blocks when bartered with<br>
+\* Splash Potions effect strength is now based on the distance of the hitboxes<br>
+\* The target tolerance margin of projectiles now changes over time<br>
+\* Changed Elytra so that while gliding, using a Firework Rocket will only be used as a boost even if it could be placed on a block<br>
+\* Spectators will now teleport together with entities that move to other dimensions, but will stop spectating them<br>
+\* Increased the third-person camera distance when spectating or riding Ghasts or Ender Dragons<br>
+\* The fix to [MC-3697](https://bugs.mojang.com/browse/MC-3697) has been partially reverted<br>
+\* Wolves, Sheep and Pigs now have their legs mirrored<br>
+\* The test framework will no longer try to restart running tests after a server restart<br>
+\* Clouds now exist all the way to the horizon, with an option to reduce them<br>
+\* Updated the pattern of clouds in the sky<br>
+\* Horses, Donkeys, and Mules can now be fed Carrots to heal, grow, and improve their temper<br>
+\* Updated the main screen panorama<br>
+\* Removed Herobrine<br>
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/6e64dcabba3c01a7271b4fa6bd898483b794c59b/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>

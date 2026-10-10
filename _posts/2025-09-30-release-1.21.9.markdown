@@ -1,0 +1,40 @@
+---
+layout: post
+title: Minecraft 1.21.9 - The Copper Age
+---
+
+Minecraft has entered The Copper Age! Express yourself in every shade of copper as you transform this versatile metal into handy tools, shiny armor, gleaming light sources, oxidizing decor, smart storage, and even lively mechanical companions known as copper golems.<br>
+
+In addition to these shiny new features, this drop comes with a bunch of technical news and fixes. The End now has a flashing skylight, you can populate the world with NPCs called mannequins, and item sprites can now be added into text. Whether scraped or oxidized, this is the start of a new clonking era of creativity!<br>
+
+**Changelog:**<br>
+\* Added Copper Chest<br>
+\* Added Copper Golem<br>
+\* Added Copper Golem Statue Block<br>
+\* Added Copper Equipment<br>
+\* Added Copper Decorations<br>
+\* Added Shelf<br>
+\* Added light flashes to The End dimension<br>
+\* Added Chat Drafts<br>
+\* Added sound previews to the Music & Sound Options sliders<br>
+\* Added the Minecraft Server Management Protocol<br>
+\* Added support for servers to have an in-game Code of Conduct<br>
+\* Added Halychian language support<br>
+\* Performance improvements<br>
+\* The Chain block has been renamed to "Iron Chain"<br>
+\* Monster Spawn Eggs now have a tooltip warning when the difficulty is set to Peaceful<br>
+\* Changes to world loading and the "Spawn Chunks"<br>
+\* A dimension that has any player activity, forceloaded chunks, active portals, or Ender Pearls in flight will be considered "active" and will keep processing chunks and entities<br>
+\* Reworked the debug overlay to be less cluttered and more configurable<br>
+\* Players seen in the game world of the current server are now always shown in the Social Interactions screen even if they are offline<br>
+\* Players now stop flying when switching from Spectator Mode to Creative Mode if they are near the ground<br>
+\* Migrated several server properties into game rules<br>
+\* OpenGL 3.3 is now required to play the game, up from 3.2. This does not change our posted Minimum Requirements<br>
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/11e54c2081420a4d49db3007e66c80a22579ff2a/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>

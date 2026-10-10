@@ -1,0 +1,29 @@
+---
+layout: post
+title: Minecraft 26.1 - Tiny Takeover
+---
+
+Ready or not, here comes the Tiny Takeover drop! New versions of baby mobs have stormed Minecraft, causing cuteness overload across biomes and builds. Listen out for heart-melting sounds, craft name tags for your pets, and keep babies forever young with the golden dandelion. The babies are officially on the loose, so get ready to collect, coo over, and create chaos with these tiny rascals!<br>
+
+**Changelog:**<br>
+\* Added new baby sounds for Wolf, Cat, Pig, Horse, and Chicken<br>
+\* Added Golden Dandelion<br>
+\* Added adult sound variants for animals<br>
+\* Added a trumpet instrument for when using a Note Block that is placed on a Copper Block<br>
+\* Revamped the visuals of most baby mobs<br>
+\* Name Tags are now craftable and can be crafted with 1 Paper and 1 of any Metal Nugget<br>
+\* Removed Name Tags from loot chests in Ancient Cities and Woodland Mansions<br>
+\* Deepslate can now be directly crafted into its cobbled, polished, brick, and tile variants in the Stonecutter<br>
+\* Stone can now be directly crafted into cobbled variants in the Stonecutter<br>
+\* Updated the Main Menu background panorama<br>
+\* Tweaked default JVM options<br>
+\* The algorithm that maps block and sky light levels to how bright things appear on screen has been fully rewritten<br>
+\* Removed baby Herobrine<br>
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/3872a7f07a1a595e651aef8b058dfc2bb3772f46/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>

@@ -1,0 +1,77 @@
+---
+layout: post
+title: Minecraft 1.21 - Tricky Trials
+---
+
+It's a fantastic day today, because it's release day Thursday! And not just any old release day. This one is extra special because today we're shipping Minecraft: Java Edition 1.21, also known as the Tricky Trials Update!<br>
+
+Venture into the hazardous Trial Chambers alone or with friends, face off against the new Breeze mob and craft a smashingly powerful new weapon, the Mace! Take your ingenious Redstone designs to new heights with the Crafter, play around with the Wind Charge, discover new decorative blocks made of Copper and Tuff, enjoy new Paintings, Music Discs, and more!<br>
+
+And that's not all! On the technical side, Tricky Trials is heralding a new age for data packs with Enchantments, Paintings and Jukebox Music Discs now being data-driven. With this release, we're also going live with performance improvements to chunk loading that were introduced in 24w19a, which reduces memory and CPU overhead compared to the old system.<br>
+
+Embark on your very first adventure in Tricky Trials by delving into the full changelog below, it's a long one!<br>
+
+Happy mining!<br>
+
+**Changelog:**<br>
+\* Added a new underground structure called the Trial Chambers<br>
+\* Added Breeze mob<br>
+\* Added Bogged mob<br>
+\* Added a new weapon, the Mace<br>
+\* Added Density enchantment<br>
+\* Added Breach enchantment<br>
+\* Added Wind Burst enchantment<br>
+\* Added Crafter<br>
+\* Added Trial Spawner<br>
+\* Added Ominous Trial Spawner<br>
+\* Added Vault<br>
+\* Added Ominous Vault<br>
+\* Added New variants in the Copper Family<br>
+\* Added New variants in the Tuff Family<br>
+\* Added Heavy Core<br>
+\* Added Trial Explorer Map<br>
+\* Added Ominous Bottle<br>
+\* Added Wind Charge<br>
+\* Added Trial Key<br>
+\* Added Ominous Trial Key<br>
+\* Added Breeze Rod<br>
+\* Added 3 new Pottery Sherds<br>
+\* Added 2 new Banner Patterns<br>
+\* Added 2 new Armor Trims<br>
+\* Added 4 new Potions<br>
+\* Added 4 new Tipped Arrows<br>
+\* Added 3 new Music Discs by Aaron Cherof and Lena Raine<br>
+\* Added 20 new Paintings<br>
+\* Redesigned Bad Omen to give access to Ominous Events<br>
+\* Added 6 new Status Effects<br>
+\* Added 9 new music tracks by Aaron Cherof, Kumi Tanioka, and Lena Raine<br>
+\* Added 8 new Advancements<br>
+\* Added 4 new cave ambient sounds<br>
+\* Boats are now leashable<br>
+\* Improved chunk loading performance<br>
+\* Doors of different materials can now form a double door<br>
+\* Witches now always drop 4-8 redstone dust on death<br>
+\* Piston sound volume and attenuation have been lowered<br>
+\* The panic behaviour of animals now lasts for 2 seconds after the damage is dealt, down from 5<br>
+\* Ender Pearls that are thrown through portals can now teleport players to a different dimension than the one they are currently in<br>
+\* It is now possible to ride entities such as Horses or Minecarts through portals<br>
+\* Projectile knockback is no longer dependent on the shooters position<br>
+\* Improved player attribute and effect handling<br>
+\* Blocks frozen by Frost Walker now emit "Block Placed" vibrations (frequency 13)<br>
+\* End Crystals are now immune to fire damage<br>
+\* The Trident is now considered of Epic rarity, giving its hover text a purple color<br>
+\* Added an attestation checkbox when submitting a player report<br>
+\* The "Burning Time" reduction effect of Fire Protection and "Knockback Resistance" effect of Blast Protection now stack from wearing several pieces<br>
+\* Realms improvements<br>
+\* The Pause Menu can now include a list of links provided by server<br>
+\* Improvements to the disconnection screen<br>
+\* Updated credits<br>
+\- Removed Herobrine<br>
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
